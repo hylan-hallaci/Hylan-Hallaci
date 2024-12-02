@@ -1,3 +1,6 @@
+
+![Bannière LinkedIn Simple Professionnelle Photo](https://github.com/user-attachments/assets/7fbb6b62-b64d-4c0e-9299-f9f6dbf85524)
+
 <h1 align="center">Bonjour a tous 👋 Hylan Hallaci</h1>
 <h3 align="center">A passionate cybersecurity specifically pentesting</h3>
 
